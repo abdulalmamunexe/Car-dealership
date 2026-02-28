@@ -1,0 +1,8 @@
+{
+  "name": "AutoPrime - Premium Car Dealership",
+  "description": "A comprehensive car dealership platform for buying and selling new and used vehicles, featuring an AI-powered car assistant for valuations and personalized recommendations.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
